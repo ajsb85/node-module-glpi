@@ -32,7 +32,7 @@ glpi('');
 ISC © [Alexander J. Salas B.](http://ajsb85.com)
 
 
-[npm-image]: https://badge.fury.io/js/npm-glpi.svg
+[npm-image]: https://badge.fury.io/js/glpi.svg
 [npm-url]: https://npmjs.org/package/glpi
 [travis-image]: https://travis-ci.org/ajsb85/npm-glpi.svg?branch=master
 [travis-url]: https://travis-ci.org/ajsb85/npm-glpi

@@ -10,7 +10,7 @@ Currently, the servers implemented are:
 * XMLRPC
 * SOAP
 
-It provides some methods and a development framework to alow other plugins to provide their own methods.
+It provides some methods and a development framework to allow other plugins to provide their own methods.
 
 https://forge.glpi-project.org/projects/webservices/wiki/En_devguide
 

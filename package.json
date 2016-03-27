@@ -45,7 +45,10 @@
       "mocha": true
     }
   },
-  "repository": "ajsb85/npm-glpi",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajsb85/node-module-glpi.git"
+  },
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"

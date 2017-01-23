@@ -1,4 +1,6 @@
 # glpi [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/node-module-glpi.svg)](https://greenkeeper.io/)
 > Node client to interact with GLPI webservices plugin
 
 ## Developer Guide
